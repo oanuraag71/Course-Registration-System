@@ -4,13 +4,13 @@
 An academic course registration system built in **C++** using **Object-Oriented Programming (OOP)** principles. This system enables students to authenticate, view available courses, register for courses, and manage their course registrations while handling time conflicts.
 
 ## Features
-✅ **Student Authentication** - Secure login with ID and password  
-✅ **Course Management** - View all available courses with details  
-✅ **Course Registration** - Register for courses with automatic conflict detection  
-✅ **Time Conflict Detection** - Prevents registration if course times overlap  
-✅ **Drop Course** - Remove previously registered courses  
-✅ **File I/O** - Persistent data storage using file handling  
-✅ **OOP Architecture** - Well-structured classes (Student, Course, RegistrationSystem)  
+ **Student Authentication** - Secure login with ID and password  
+ **Course Management** - View all available courses with details  
+ **Course Registration** - Register for courses with automatic conflict detection  
+ **Time Conflict Detection** - Prevents registration if course times overlap  
+ **Drop Course** - Remove previously registered courses  
+ **File I/O** - Persistent data storage using file handling  
+ **OOP Architecture** - Well-structured classes (Student, Course, RegistrationSystem)  
 
 ## Technical Details
 
@@ -84,11 +84,11 @@ Password: pass123
 - Loads from `registrations.txt`
 
 ## Key Improvements Made
-- ✅ Added comprehensive header guards (#ifndef)
-- ✅ Proper include statements for all dependencies
-- ✅ Better organized class hierarchy
-- ✅ Improved error handling
-- ✅ Enhanced documentation and comments
+-  Added comprehensive header guards (#ifndef)
+-  Proper include statements for all dependencies
+-  Better organized class hierarchy
+-  Improved error handling
+-  Enhanced documentation and comments
 
 ## Learning Outcomes
 - Object-Oriented Programming in C++
